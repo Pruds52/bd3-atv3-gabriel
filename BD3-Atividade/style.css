@@ -1,0 +1,21 @@
+.divInput{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    text-align: center;
+}
+
+form{
+    justify-content: center;
+    width: 700px;
+    
+}
+
+.divForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
